@@ -1,1 +1,1 @@
-# News_Macro_XAU_EA---Woodcock
+# News_Macro_XAU_EA-Woodcock
