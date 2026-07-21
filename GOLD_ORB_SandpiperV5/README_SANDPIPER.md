@@ -1,4 +1,5 @@
 GOLD_ORB Sandpiper
+
 A. Overview
 GOLD_ORB Sandpiper is an enhanced version of the original GOLD_ORB EA, adding time-based trading filters for more precise trade timing control.
 
